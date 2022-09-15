@@ -1,7 +1,7 @@
 [![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)](https://harshalmargaj.io/)
 <h1 align="center">Hi 👋, I'm Harshal Margaj</h1>
 <h3 align="center">A passionate Python Developer</h3>
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
 
 <p align="left"> <a href="https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" target="blank"><img src="https://img.shields.io/badge/YouTube-Tech%20Harsh-red?style=for-the-badge&logo=youtube?link=http://left&link=https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" alt=“harshalmargaj” /></a> </p>
 
