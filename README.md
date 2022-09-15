@@ -17,11 +17,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="www.linkedin.com/in/harshal-margaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-margaj" height="30" width="40" /></a>
-<a href="https://fb.com/harshal margaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="harshal margaj" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/_._mr.harshuzz_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._mr.harshuzz_._/" height="30" width="40" /></a>
-<a href="UCtiuE5Eot3skGFUMfy25llw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctiue5eot3skgfumfy25llw/featured" height="30" width="40" /></a>
-<a href="harshal_margaj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/harshal_margaj12" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/harshal-margaj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/harshal-margaj" height="30" width="40" /></a>
+<a href="https://www.instagram.com/_._mr.harshuzz_._/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/_._mr.harshuzz_._/" height="30" width="40" /></a>
+<a href="https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/uctiue5eot3skgfumfy25llw/featured" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/harshal_margaj12" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/harshal_margaj12" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
