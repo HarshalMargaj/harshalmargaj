@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" target="blank"><img src="https://img.shields.io/badge/YouTube-Tech%20Harsh-red?style=for-the-badge&logo=youtube?link=http://left&link=https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" alt=“harshalmargaj” /></a> </p>
 
-- 🔭 I’m currently working on **Bank Management System**
+- 🔭 I’m currently working on **Data Science Projects**
 
 - 🌱 I’m currently learning **AI/ML**
 
-- 💬 Ask me about **Python, Tkinter**
+- 💬 Ask me about **Python, Web Development, Machine Learning, Front-end Development, AWS**
 
 - 📫 How to reach me **harshal.margaj12@gmail.com**
 
