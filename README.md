@@ -49,7 +49,7 @@ Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 
 ## Coding Profiles
 
-- **GitHub:** https://github.com/harshalmargaj  
+- **GeeksForGeeks:** https://www.geeksforgeeks.org/profile/harshalmargaj12?tab=activity
 - **LeetCode:** https://leetcode.com/harshalmargaj  
 
 ---
