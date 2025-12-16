@@ -50,7 +50,7 @@ Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)
 ## Coding Profiles
 
 - **GeeksForGeeks:** https://www.geeksforgeeks.org/profile/harshalmargaj12?tab=activity
-- **LeetCode:** https://leetcode.com/harshalmargaj  
+- **LeetCode:** https://leetcode.com/u/Harshal_Margaj/
 
 ---
 
