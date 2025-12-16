@@ -1,80 +1,65 @@
-[![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/2800_opt_1/79731568097599.5b50bca477735.jpg)](https://harshalmargaj.io/)
+# Harshal Margaj
 
-<h1 align="center">Hi 👋, I'm Harshal Margaj</h1>
-<h3 align="center">Frontend Engineer | React & Next.js Specialist | Content Creator</h3>
+### Frontend Engineer | React & Next.js Developer
 
-<img align="right" alt="Coding" width="400" src="https://www.sarvika.com/wp-content/uploads/2021/03/Backend-Developer-Python-GIF-Dribble.gif">
-
-<p align="left">
-  <a href="https://www.youtube.com/channel/UCtiuE5Eot3skGFUMfy25llw" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-Tech%20Harsh-red?style=for-the-badge&logo=youtube" />
-  </a>
-</p>
+Frontend Engineer with **1 year of professional experience** building scalable, responsive, and user-focused web applications.  
+Experienced in **React, Next.js, TypeScript, Redux, API integration, and Tailwind CSS**, with a strong focus on clean code, performance, and collaboration within cross-functional teams.
 
 ---
 
-### 👨‍💻 About Me
+## Professional Summary
 
-- 💻 Frontend Developer with strong **full-stack understanding**
-- ⚛️ Specialized in **React.js, Next.js, TypeScript**
-- 🧩 Building **scalable UI components & dashboards**
-- 🔐 Authentication using **Clerk, JWT**
-- 🗄️ Backend experience with **Supabase, Prisma, PostgreSQL**
-- 🎥 YouTube creator sharing **real-world coding solutions**
-- 🚀 Passionate about clean code & performance
-
-- 📫 Reach me at **harshal.margaj12@gmail.com**
-- ⚡ Fun fact: **Funny by nature, stubborn about clean code**
+- 1 year of experience as a Frontend Developer  
+- Strong expertise in React.js, Next.js, and TypeScript  
+- Hands-on experience with Redux, Zustand, and TanStack Query  
+- Skilled in RESTful API integration and data handling  
+- Proficient in building reusable components and modern UI systems  
+- Comfortable collaborating in team-based development environments  
+- Focused on maintainable architecture and best practices  
 
 ---
 
-<h3 align="left">🌐 Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/harshal-margaj" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.instagram.com/_._mr.harshuzz_._/" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/harshal_margaj12" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" height="30" width="40" />
-  </a>
-</p>
+## Skills
+
+• **Languages & Scripting:**  
+Python, JavaScript (ES6+), TypeScript, HTML5, CSS3  
+
+• **Frontend Technologies:**  
+React.js, Next.js, Redux, Tailwind CSS, Shadcn UI, Material UI, React Hook Form, Zod  
+
+• **Backend Technologies:**  
+Node.js, Express.js, Prisma, Supabase, Strapi  
+
+• **Databases:**  
+PostgreSQL, MongoDB  
+
+• **State Management & Data Handling:**  
+Zustand, Redux, TanStack Query  
+
+• **API Integration:**  
+RESTful APIs, API Integration  
+
+• **Version Control & Collaboration:**  
+Git, GitHub  
+
+• **Other Tools & Concepts:**  
+Object-Oriented Programming (OOP), Data Structures & Algorithms (DSA)  
 
 ---
 
-<h3 align="left">🛠️ Languages & Tools:</h3>
-<p align="left">
-  <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://nextjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" width="40" height="40"/></a>
-  <a href="https://www.typescriptlang.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="40" height="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="40" height="40"/></a>
-  <a href="https://www.w3.org/html/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/css/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://tailwindcss.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tailwindcss/tailwindcss-plain.svg" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40" height="40"/></a>
-  <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40" height="40"/></a>
-</p>
+## Coding Profiles
+
+- **GitHub:** https://github.com/harshalmargaj  
+- **LeetCode:** https://leetcode.com/harshalmargaj  
 
 ---
 
-### 📊 GitHub Activity
+## GitHub Stats
 
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harshalmargaj&theme=react-dark)](https://github.com/HarshalMargaj)
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=harshalmargaj&show_icons=true&layout=compact&theme=tokyonight" />
-</p>
-
-<p>&nbsp;
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=harshalmargaj&show_icons=true&theme=tokyonight" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshalmargaj&theme=tokyonight" />
-</p>
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=harshalmargaj&show_icons=true&hide_title=true)
 
 ---
 
-> 💡 *“Build clean. Learn daily. Share knowledge.”*
+## Contact
+
+📧 **Email:** harshal.margaj12@gmail.com
